@@ -1,0 +1,9 @@
+{
+	"name": "deepakdatafactoryProjects",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "69fed0f7-44b7-45f7-8460-fa072e129a7b",
+		"tenantId": "86798324-3f93-411b-87db-8c413d663702"
+	}
+}
