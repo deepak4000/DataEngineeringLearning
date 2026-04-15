@@ -1,0 +1,39 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "deepakdatafactoryProjects"
+		},
+		"Is_onprem_file_password": {
+			"value": ""
+		},
+		"ls_azuresql_password": {
+			"value": ""
+		},
+		"ls_datalake_accountKey": {
+			"value": ""
+		},
+		"Is_onprem_file_properties_typeProperties_host": {
+			"value": "C:\\AnsLambaFiles"
+		},
+		"Is_onprem_file_properties_typeProperties_userId": {
+			"value": "PC"
+		},
+		"ls_azuresql_properties_typeProperties_server": {
+			"value": "adfproject111.database.windows.net"
+		},
+		"ls_azuresql_properties_typeProperties_database": {
+			"value": "adfprojectdb"
+		},
+		"ls_azuresql_properties_typeProperties_userName": {
+			"value": "adminadmin"
+		},
+		"ls_datalake_properties_typeProperties_url": {
+			"value": "https://adfdeepakstorage.dfs.core.windows.net/"
+		},
+		"ls_github_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/"
+		}
+	}
+}
